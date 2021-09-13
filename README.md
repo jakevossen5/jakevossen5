@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 I'm Jake, and I am currently an student at [Colorado School of Mines](https://mines.edu) studying [computer science](https://cs.mines.edu). I am doing research on programming languages, verification, and synthesis.
 
 - Most information about me (contact information, Résumé/CV, etc) be found on my website: [jake.vossen.dev](https://jake.vossen.dev)
-- You can see what open source work I am doing by checking this [dashboard](https://www.notion.so/jakevossen5/Side-Projects-2e6334f96639421793a12e2d0955ee11)
+- I am currently looking for internships next summer! I want to build cool things - bonus points if I can stay in Colorado 😄
 - Twitter is a good way to keep up with what I am up to! [@jakevossen5](https://twitter.com/jakevossen5)
